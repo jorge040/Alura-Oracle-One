@@ -1,6 +1,10 @@
-<h1> Hola Equipo de Alura y Oracle. </h1>
-
 <h1> Pequeños programas que voy realizando para Alura + Oracle </h1>
+
+<h2> Tecnologias Usadas </h2>
+
+- HTML
+- CSS
+- JavaScript
 
 <h2> Programas que me gustaron </h2>
 
@@ -15,4 +19,8 @@
 ![image](https://user-images.githubusercontent.com/46494068/231874646-8cd8ccdb-a23c-4e65-973b-495b2027729e.png)
 
 
+<h2> Creditos </h2>
+
+- Christian Velasco.
+- Bruno Darío Fernández Ellerbach
 
