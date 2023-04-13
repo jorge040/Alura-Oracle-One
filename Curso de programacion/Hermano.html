@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hermano mayor</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<script>
+
+Nombre1 = prompt(" Ingresa tu nombre ");
+    var Edad1 = prompt(" Hola " + Nombre1 + " Ingresa tu edad ");
+    while (!Edad1) {
+        Edad = prompt(" Ingresa tu edad ");
+    }
+    document.write( " Hola " + Nombre1 + "\n");
+    document.write(  " Tu edad es de " + Edad1 + "<br>");
+
+    Nombre2 = prompt( " Ingresa tu nombre ") ;
+    console.log(Edad2);
+    var Edad2 = prompt( " Hola " + Nombre2 + " Ingresa tu edad ");
+    while (!Edad2) {
+        Edad2 = prompt("Ingresa tu edad");
+    }
+    document.write( "Hola " + Nombre2 + "\n");
+    document.write( "Tu edad es de " + Edad2 + "<br>");
+
+
+    console.log(Edad1 + Edad2);
+    
+    function sumandos(a, b){
+        var a = parseInt(Edad1);
+        var b = parseInt(Edad2);
+        var Result = a - b;
+        document.write("La suma de las edades es de" + "\n" + Result + "<br>");
+    }
+
+    
+
+sumandos();
+
+</script>

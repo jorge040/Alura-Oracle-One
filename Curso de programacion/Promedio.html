@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promedio</title>
+</head>
+<body>
+
+    <h1>Calcula el promedio de las edades de 3 personas.</h1>
+    
+</body>
+</html>
+
+<script>
+
+    Nombre1 = prompt(" Ingresa tu nombre ");
+    var Edad1 = prompt(" Hola " + Nombre1 + " Ingresa tu edad ");
+    
+    document.write( " Hola " + Nombre1 + "\n");
+    document.write(  " Tu edad es de " + Edad1 + "<br>");
+
+    Nombre2 = prompt( " Ingresa tu nombre ") ;
+    console.log(Edad2);
+    var Edad2 = prompt( " Hola " + Nombre2 + " Ingresa tu edad ");
+    
+    document.write( "Hola " + Nombre2 + "\n");
+    document.write( "Tu edad es de " + Edad2 + "<br>");
+
+    Nombre3 = prompt(" Ingresa tu nombre ");
+    console.log(Edad3);
+    var Edad3 = prompt( " Hola " + Nombre3 + " Ingresa tu edad ");
+    
+    document.write( " Hola " + Nombre3 + "\n");
+    document.write( " Tu edad es de " + Edad3 + "<br>");
+
+    console.log(Edad1 + Edad2 + Edad3);
+    
+    function Promedio(a, b, c){
+        var a = parseInt(Edad1);
+        var b = parseInt(Edad2);
+        var c = parseInt(Edad3);
+        var Result = a + b + c;
+        var Promedio = (a + b + c)/3;
+        document.write("La suma de las edades es de" + "\n" + Result + "<br>");
+        document.write("El Promedio es de" + "\n" +  Math.round(Promedio));
+    }
+
+    
+
+Promedio();
+
+</script>
+
