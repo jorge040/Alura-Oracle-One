@@ -17,7 +17,7 @@
 
 
 <h2> Conclusion </h2>
-<h3> Es uno de mis pequeños mini proyectos de JavaScript., tambien me ayudo mucho el tutorial aprendi varias cosas el dia de hoy. </h3>
+<h3> Es uno de mis pequeños mini proyectos y acercamientos a JavaScript., Tambien me ayudo mucho un tutorial aprendi varias cosas el dia de hoy. </h3>
 
 <h2> Creditos </h2>
 
