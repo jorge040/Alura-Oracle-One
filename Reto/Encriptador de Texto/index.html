@@ -13,13 +13,17 @@
     <main>
         <h1>Encriptador de Texto.</h1>
         <form id="cifrador" autocomplete="off">
-            <input id="input-original" spellcheck="false" placeholder="Ingrese el texto" type="text" name="text">
+            <input id="input-original" spellcheck="false" placeholder="Ingresa tu palabra" type="text" name="text" value="" onkeyup="javascript:this.value=this.value.toUpperCase();">
+       
         </form>
         <div id="resultado"></div>
         <div class="rango">
-            <input id="rango" type="range" value="10" min="1" max="20" oninput="this.nextElementSibling.value = this.value">
-            <output>10</output>
+            <input id="rango" type="range" value="10" min="-1" max="1" oninput="this.nextElementSibling.value = this.value">
+            <output>1</output>
         </div>
+        <h3> Mueve la bolita para cambiar la funcion </h3>
+        <h6>Para encriptar: 1 <br>  Para desencriptar: -1</h6>
+
     </main>
 </body>
 </html>
