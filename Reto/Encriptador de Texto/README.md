@@ -13,7 +13,7 @@
 - CSS
 - JavaScript
 
-![image](https://user-images.githubusercontent.com/46494068/231914300-7bc31748-bb7b-47b3-8e19-847205094622.png)
+![image](https://user-images.githubusercontent.com/46494068/231917475-d34aa1fc-438e-450a-8fc4-04b041b6e141.png)
 
 
 
