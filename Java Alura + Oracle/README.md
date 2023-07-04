@@ -1,11 +1,8 @@
-<h1> Practicas De Alura. </h1>
-
-![giphy](https://github.com/jorge040/Alura-Oracle-One/assets/46494068/e6abd5d6-16a0-4dff-a570-3a3f01e41a51)
-
-
+<h1> Practicando Java. </h1>
 <h2> Que Encontraras En Este Repositorio </h2>
 
-- Las Practicas Que He Realizado A Lo Largo Del Curso.
+- Las Practicas Que He Realizado En Alura.
 - Pequeños Proyectos. 
 
+![giphy](https://github.com/jorge040/Alura-Oracle-One/assets/46494068/e4dccf6d-e620-4d4a-93c7-040040fb1247)
 
