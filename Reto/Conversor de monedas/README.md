@@ -22,4 +22,4 @@
 
 ![c33c10ff-c275-4de6-a107-5d2328e4f176](https://github.com/jorge040/Alura-Oracle-One/assets/46494068/4575e5b9-6e0b-46a2-ad96-46ed6ae8e02d)
 
-<h3> En el momento de hacer la practica el tipo de cambio de Peso Mx a Dolar es de 0.55D x 1Pmx por eso el resultado es de 59 Dolares.</h3>
+<h3> En el momento de hacer la practica el tipo de cambio de Peso Mx a Dolar es de 0.55D x 1Pmx por eso el resultado es de 59 Dolares. </h3>
