@@ -1,7 +1,7 @@
 <h1> Hola Equipo de Alura y Oracle </h1>
-<h2> Estudiemos Juntos </h2>
+<h2> Estudiemos Juntos: JAva  </h2>
 
-<h2> Programación Orientada a Objetos (POO). </h2>
+<h2> Pilares De La Programación Orientada a Objetos (POO). </h2>
 
 <b>Abstracción:</b> La abstracción implica simplificar la complejidad modelando objetos del mundo real como entidades con características esenciales y omitiendo los detalles irrelevantes. En POO, puedes crear clases que representan tipos de objetos y definir propiedades (atributos) y comportamientos (métodos) asociados con esos objetos. La abstracción permite enfocarse en lo que hace un objeto y cómo interactúa con otros objetos, en lugar de preocuparse por su implementación interna.
 
@@ -39,11 +39,11 @@
 
 <b>Else if:</b> El else if se utiliza para comprobar múltiples condiciones en secuencia. Si la condición de un if no se cumple, se evalúa la siguiente condición en el else if. Esto permite manejar varias opciones diferentes.
 
-<b>For:</b El bucle for se utiliza para ejecutar un bloque de código un número específico de veces. Tiene tres partes: inicialización, condición y actualización. La inicialización se ejecuta una vez al principio, la condición se verifica antes de cada iteración y, si es verdadera, se ejecuta el bloque de código. Luego, se realiza la actualización y el ciclo continúa hasta que la condición sea falsa. 
+<b>For:</b> El bucle for se utiliza para ejecutar un bloque de código un número específico de veces. Tiene tres partes: inicialización, condición y actualización. La inicialización se ejecuta una vez al principio, la condición se verifica antes de cada iteración y, si es verdadera, se ejecuta el bloque de código. Luego, se realiza la actualización y el ciclo continúa hasta que la condición sea falsa. 
 
 <b>While:</b> El bucle while se utiliza para ejecutar un bloque de código mientras una condición sea verdadera. La condición se verifica antes de cada iteración. Si la condición es verdadera, el bloque de código se ejecuta y luego se vuelve a verificar la condición. El ciclo continúa hasta que la condición sea falsa.
 
-<b>Do-while:</b El bucle do-while es similar al bucle while, pero la condición se verifica después de cada iteración. Esto significa que el bloque de código se ejecuta al menos una vez, incluso si la condición es falsa desde el principio.
+<b>Do-while:</b> El bucle do-while es similar al bucle while, pero la condición se verifica después de cada iteración. Esto significa que el bloque de código se ejecuta al menos una vez, incluso si la condición es falsa desde el principio.
 
 <h2> Como se Hace </h2>
 <h4></h4>
