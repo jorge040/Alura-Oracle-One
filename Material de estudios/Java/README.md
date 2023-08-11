@@ -1,5 +1,5 @@
 <h1> Hola Equipo de Alura y Oracle </h1>
-<h2> Estudiemos Juntos: JAva  </h2>
+<h2> Estudiemos Juntos: Java  </h2>
 
 <h2> Pilares De La Programación Orientada a Objetos (POO). </h2>
 
